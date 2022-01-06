@@ -78,3 +78,14 @@ p{
 #goals{
     background-color:papayawhip;
 }
+
+.sec3-develop{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 32%;
+    background-position: left;
+}
+
+.develop-text{
+    text-align: justify;
+}
