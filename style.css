@@ -89,3 +89,10 @@ p{
 .develop-text{
     text-align: justify;
 }
+
+.sec4-know{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-size: 22%;
+    background-position: right;
+}
